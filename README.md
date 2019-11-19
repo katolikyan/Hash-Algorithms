@@ -5,7 +5,7 @@ A reproduction of openssl hashing algorithms
 
 ```bash
 $> make
-$> ./ft_ssl command [command opts] [command args]
+$> ./ft_ssl <hash_algorithm> <flags> <arguments>
 ```
 Only tested on OS X.
 
